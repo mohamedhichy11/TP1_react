@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/TP1_react/static/css/main.14a08273.css",
+    "main.js": "/TP1_react/static/js/main.cd6db8e1.js",
+    "index.html": "/TP1_react/index.html",
+    "main.14a08273.css.map": "/TP1_react/static/css/main.14a08273.css.map",
+    "main.cd6db8e1.js.map": "/TP1_react/static/js/main.cd6db8e1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.14a08273.css",
+    "static/js/main.cd6db8e1.js"
+  ]
+}
