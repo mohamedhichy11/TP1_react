@@ -1,9 +1,10 @@
 {
-  "script":{
+  "script": {
     "start": "react-scripts start",
-    "predeploy":"npm run build",
-    "deploy":"gh-pages -d build"},
-    "homepage":"https://mohamedhichy11.github.io/TP1_react",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
+  },
+  "homepage": "https://mohamedhichy11.github.io/TP1_react",
   "name": "fs203",
   "version": "0.1.0",
   "private": true,
